@@ -41,15 +41,15 @@ include('./db/dbConnect.php')
                 <div id="gallery">
                     <figure>
                         <ul align="center" class="nospace clear">
-                            <li class="one_third first"><a href="#"><img src="../images/demo/gallery/01.png" alt=""></a>
+                            <li class="one_third first"><a href="#"><img src="../images/demo/gallery/img3.jpg" alt=""></a>
                             <p align="center"><b>IT АУДИТ</b><br><br>
                             Проведение аудита используемых IT систем. Эффективность применения, планы развития, возможности интеграции</p></li>
 
-                            <li class="one_third"><a href="#"><img src="../images/demo/gallery/01.png" alt=""></a>
+                            <li class="one_third"><a href="#"><img src="../images/demo/gallery/img2.jpg" alt=""></a>
                             <p align="center"><b>АНАЛИЗ И РЕКОМЕНДАЦИИ</b><br><br>
                             Анализ существующих трендов и бенчмаркинг развития IT в отрасли.</p></li>
 
-                            <li class="one_third"><a href="#"><img src="../images/demo/gallery/01.png" alt=""></a>
+                            <li class="one_third"><a href="#"><img src="../images/demo/gallery/img1.jpg" alt=""></a>
                             <p align="center"><b>ПРОВЕРКА СУЩЕСТВУЮЩИХ IT СИСТЕМ</b><br>
                             Анализ соответствия уже установленных IT систем потребностям бизнеса и оптимизация расходов на управление IT</p></li>
                         </ul>

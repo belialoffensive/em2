@@ -22,8 +22,8 @@ include('./db/dbConnect.php')
     <div class="wrapper row3">
         <main class="container clear">
             <div class="group">
-                <div class="one_third first"><img src="images/demo/460x700.png" alt=""></div>
-                <div class="two_third">
+                <div class="two_quater first"><img src="images/demo/struktura_tsentrov_1x.jpg" alt=""></div>
+                <div class="one_quater">
                     <h2 class="heading" align="center">Сертифицированный курс по передаче технологий в соответствии с концепцией IMLEAD ®</h2>
                     <p align="justify">В настоящее время недостаточно просто использовать технологии. В связи с быстрыми темпами совершенствования технологий, 
                             их разнообразием и растущей сложностью эффективность бизнес-процессов все больше зависит от грамотного управление технологиями на 

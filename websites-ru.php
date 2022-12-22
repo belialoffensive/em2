@@ -21,7 +21,7 @@ include('./db/dbConnect.php')
     <div class="wrapper row3">
         <main class="container clear">
             <div class="group">
-                <div class="one_third first"><img src="images/demo/460x700.png" alt=""></div>
+                <div class="one_third first"><img src="images/demo/0_kBHpKva09AsGj7RQ.jpg" alt=""></div>
                 <div class="two_third">
                     <h2 class="heading" align="center">РАЗРАБОТКА САЙТОВ И ИНТЕРНЕТ-МАГАЗИНОВ</h2>
                     <p align="justify">Нужен сайт компании или интернет-магазин? Мы поможем быстро и эффективно создать для Вас и Вашей компании интернет-сайт, продвигать Вашу компанию в сети Интернет или помочь в организации продаж Ваших товаров через созданный нами интернет-магазин</p>

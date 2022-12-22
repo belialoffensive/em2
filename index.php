@@ -60,7 +60,7 @@ include('./db/dbConnect.php')
                             </p>
                         </li>
                         <li class="one_third last">
-                            <h6 class="nospace btmspace-10" align="center"><a href="#"><i
+                            <h6 class="nospace btmspace-10" align="center"><a href="https://www.ecomeken.kz/saytpartnerabitriks24new/"><i
                                         class="fa fa-map-marker"></i>УСЛУГИ ПО ВНЕДРЕНИЮ BITRIX24</a></h6>
                             <p align="justify">Быстрое развертывание системы продаж на платформе BITRIX24.</br>
                                 Более 8 млн. компаний по всему миру внедрили у себя системы на платформе BITRIX24 и
@@ -87,7 +87,7 @@ include('./db/dbConnect.php')
     <div class="wrapper row3">
         <main class="container clear">
             <div class="group">
-                <div class="one_third first"><img src="images/demo/460x700.png" alt=""></div>
+                <div class="one_third first"><img src="images/demo/logo-wiki-2.png" alt=""></div>
                 <div class="two_third">
                     <h2 class="heading" align="center"><a href="https://www.bitrix24.ru/">BITRIX24</a></h2>
                     <p align="justify">С 1 по 30 декабря приобретайте Битрикс24 со скидкой до 30%! (при покупке на год).
@@ -95,7 +95,7 @@ include('./db/dbConnect.php')
                         сайтов и магазинов,
                         выполнение задач и совместная работа — любые задачи будут по плечу. Преобразите бизнес с
                         Битрикс24!</p>
-                    <button type="submit" value="submit">Подробнее</button>
+                    <button type="submit" value="submit"><a href="https://www.ecomeken.kz/saytpartnerabitriks24new/">Подробнее</a></button>
                 </div>
             </div>
             <!-- main body -->
@@ -111,14 +111,14 @@ include('./db/dbConnect.php')
                     <figure>
                         <header class="heading" align="center">НАШИ ПАРТНЕРЫ</header>
                         <ul align="center" class="nospace clear">
-                            <li class="one_third first"><a href="#"><img src="../images/demo/gallery/01.png" alt=""></a>
+                            <li class="one_third first"><a href="https://eabw.org/"><img src="../images/demo/gallery/logo_EABW_2x_1x.jpeg" alt=""></a>
                             </li>
-                            <li class="one_third"><a href="#"><img src="../images/demo/gallery/01.png" alt=""></a></li>
-                            <li class="one_third"><a href="#"><img src="../images/demo/gallery/01.png" alt=""></a></li>
-                            <li class="one_third first"><a href="#"><img src="../images/demo/gallery/01.png" alt=""></a>
+                            <li class="one_third"><a href="https://www.ecomeken.kz/stranichkaprofessionala/"><img src="../images/demo/gallery/zero_carbon_2x.png" alt=""></a></li>
+                            <li class="one_third"><a href="https://www.steinbeis.de/de/verbund/suche-im-steinbeis-verbund/detail.html?tx_z7suprofiles_detail%5Bprofile%5D=2550&cHash=38cd5ccb6907efc146508a74301308fb"><img src="../images/demo/gallery/logo_EABW2_1x.jpeg" alt=""></a></li>
+                            <li class="one_third first"><a href="https://steinbeis.education/"><img src="../images/demo/gallery/Logo_Steinbeis_1x.jpeg" alt=""></a>
                             </li>
-                            <li class="one_third"><a href="#"><img src="../images/demo/gallery/01.png" alt=""></a></li>
-                            <li class="one_third"><a href="#"><img src="../images/demo/gallery/01.png" alt=""></a></li>
+                            <li class="one_third"><a href="https://ecolomist.kz/"><img src="../images/demo/gallery/pavlodaro_1x.png" alt=""></a></li>
+                            <li class="one_third"><a href="https://centereco.kz/"><img src="../images/demo/gallery/ecolomist_1x.png" alt=""></a></li>
                         </ul>
                     </figure>
                 </div>
@@ -136,10 +136,10 @@ include('./db/dbConnect.php')
                     <figure>
                         <header class="heading" align="center">ПОСЕЩЕНИЕ ПРЕДПРИЯТИЙ И ДЕЛОВЫЕ ВИЗИТЫ В ГЕРМАНИЮ</header>
                         <ul align="center" class="nospace clear">
-                            <li class="one_third first"><a href="#"><img src="../images/demo/gallery/01.png" alt=""></a>
+                            <li class="one_third first"><a href="#"><img src="../images/demo/gallery/podbor_oborudovaniya_na_sayt_1x.jpg" alt=""></a>
                             </li>
-                            <li class="one_third"><a href="#"><img src="../images/demo/gallery/01.png" alt=""></a></li>
-                            <li class="one_third"><a href="#"><img src="../images/demo/gallery/01.png" alt=""></a></li>
+                            <li class="one_third"><a href="#"><img src="../images/demo/gallery/dlya_sayta_ekomeken_1x.jpg" alt=""></a></li>
+                            <li class="one_third"><a href="#"><img src="../images/demo/gallery/dlya_sayta_podbor_1x.jpg" alt=""></a></li>
                         </ul>
                     </figure>
                 </div>

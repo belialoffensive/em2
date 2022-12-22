@@ -22,7 +22,7 @@ include('./db/dbConnect.php')
     <div class="wrapper row3">
         <main class="container clear">
             <div class="group">
-                <div class="one_third first"><img src="images/demo/460x700.png" alt=""></div>
+                <div class="one_third first"><img src="images/demo/graduation-cap-and-world-globe-icon-vector-9655609_1x.jpg" alt=""></div>
                 <div class="two_third">
                     <h2 class="heading" align="center">ПРОГРАММА ПОДГОТОВКИ К ПОСТУПЛЕНИЮ В МАГИСТРАТУРУ</h2>
                     <p align="justify">Чтобы окунуться в немецкую образовательную и бизнес-среду, вы можете подготовиться к ней шаг за шагом. 

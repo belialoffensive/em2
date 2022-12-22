@@ -18,8 +18,8 @@ include('./db/dbConnect.php')
     <div class="wrapper row3">
         <main class="container clear">
             <div class="group">
-                <div class="one_third first"><img src="images/demo/460x700.png" alt=""></div>
-                <div class="two_third">
+                <div class="two_third first"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2502.913051515097!2d71.36783191612895!3d51.14695447957741!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x424586595262e7e9%3A0xef9e9fddc0eb35fb!2z0JrQvtGA0LPQsNC70LbQuNC90YHQutC-0LUg0YguIDIxLCDQkNGB0YLQsNC90LAgMDIwMDAw!5e0!3m2!1sru!2skz!4v1671710373915!5m2!1sru!2skz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+                <div class="one_third">
                     <h2 class="heading" align="center">Связаться с нами</h2>
                     <p align="justify">
                     Республика Казахстан, <br>г. Астана<br>

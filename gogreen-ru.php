@@ -27,7 +27,8 @@ include('./db/dbConnect.php')
                         <header class="heading" align="center">АВТОНОМНЫЕ СОЛНЕЧНЫЕ СИСТЕМЫ GO GREEN</header>
                         <p align="center">Наша компания предлагает уникальное недорогое решение для автономного энергоснабжения частных домостроений и небольших усадьб.</p>
                         <ul align="center" class="nospace clear">
-                            <li class="one_third first"><a href="#"><img src="../images/demo/gallery/01.png" alt=""></a>
+                            <li class="one_third first">
+                                <!-- <a href="#"><img src="../images/demo/gallery/01.png" alt=""></a> -->
                             <p align="center"><b>GO GREEN ENERGY 2000W/250AH</b><br><br>
                             2x150 Вт монокристаллических солнечных модуля.<br>
                             Контроллер заряда: 40A PWM<br>
@@ -37,7 +38,8 @@ include('./db/dbConnect.php')
                             2x 5 Volt USB 1,1 A and 2,1 A порты<br><br>
                             <b>Стоимость: 1699 €</b></p></li>
 
-                            <li class="one_third"><a href="#"><img src="../images/demo/gallery/01.png" alt=""></a>
+                            <li class="one_third">
+                                <!-- <a href="#"><img src="../images/demo/gallery/01.png" alt=""></a> -->
                             <p align="center"><b>GO GREEN ENERGY 2000W/500AH</b><br><br>
                             4x150Вт монокристаллических солнечных модуля.<br>
                                 Контроллер заряда: 60A PWM<br>
@@ -47,7 +49,8 @@ include('./db/dbConnect.php')
                                 2x 5 Volt USB 1,1 A and 2,1 A порты<br><br>
                             <b>Стоимость: 2499 €</b>
                         </p></li>
-                            <li class="one_third"><a href="#"><img src="../images/demo/gallery/01.png" alt=""></a>
+                            <li class="one_third">
+                                <!-- <a href="#"><img src="../images/demo/gallery/01.png" alt=""></a> -->
                             <p align="center"><b>СОЛНЕЧНЫЕ МОНОКРИСТАЛЛИЧЕСКИЕ ПАНЕЛИ</b><br>
                             Вес 12,9 кг<br>
                             Размеры 1480мм х 675 мм х 35 мм<br>
@@ -61,14 +64,16 @@ include('./db/dbConnect.php')
                         </p></li>
                         </ul>
                         <ul align="center" class="nospace clear">
-                            <li class="one_third first"><a href="#"><img src="../images/demo/gallery/01.png" alt=""></a>
+                            <li class="one_third first">
+                                <!-- <a href="#"><img src="../images/demo/gallery/01.png" alt=""></a> -->
                             <p align="center"><b>КОНТРОЛЛЕР ЗАРЯДА</b><br>
                             Максимальный рабочий ток: 60A<br>
                             Максимальная фотоэлектрическая мощность зарядки: 900 Вт при 12 В / 1800 Вт при 24 В<br>
                             Рабочее напряжение: контроллер заряда автоматически определяет напряжение 12В и 24В<br>
                             Номинальное напряжение солнечной панели до 20 В для систем 12В, до 40В для систем 24В, подходящих для сечения кабеля до 16 мм2
                         </p></li>
-                            <li class="one_third"><a href="#"><img src="../images/demo/gallery/01.png" alt=""></a>
+                            <li class="one_third">
+                                <!-- <a href="#"><img src="../images/demo/gallery/01.png" alt=""></a> -->
                             <p align="center"><b>АККУМУЛЯТОР</b><br>
                             Размеры: 522 x 268 x 226 mm (L x B x H)<br>
                             Поддерживающее напряжение зарядки 2,27 вольта на ячейку<br>
@@ -77,7 +82,8 @@ include('./db/dbConnect.php')
                             100% не требует обслуживания в течение всего срока службы батареи<br>
                             Корпус из АБС-пластика с прочными ручками для переноски
                         </p></li>
-                            <li class="one_third"><a href="#"><img src="../images/demo/gallery/01.png" alt=""></a>
+                            <li class="one_third">
+                                <!-- <a href="#"><img src="../images/demo/gallery/01.png" alt=""></a> -->
                             <p align="center"><b>ПРЕОБРАЗОВАТЕЛЬ НАПРЯЖЕНИЯ</b><br>
                             2000 Вт/4000 Вт 12 В до 230 В<br>
                         </p></li>

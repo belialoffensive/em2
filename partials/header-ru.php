@@ -23,12 +23,12 @@
             <ul class="clear">
                 <li class="active"><a href="index.php">Главная</a></li>
                 <li><a class="drop" href="about-ru.php">О компании</a>
-                <ul>
+                <!-- <ul>
                     <li><a href="#">Level 2</a></li>
                     <li><a href="#">Level 2</a></li>
                     <li><a href="#">Level 2</a></li>
                     <li><a href="#">Level 2</a></li>
-                </ul></li>
+                </ul>--></li> 
                 <li><a href="services-ru.php">Услуги</a></li>
                 <li><a href="itp-ru.php">Международные программы обучения</a></li>
                 <li><a href="contacts-ru.php">Контакты</a></li>
@@ -37,7 +37,7 @@
     </header>
 </div>
 
-<div class="wrapper row2 bgded" style="background-image:url('images/demo/backgrounds/01.png');">
+<div class="wrapper row2 bgded" style="background-image:url('images/demo/backgrounds/01.jpg');">
     <div class="overlay">
         <section id="pageintro" class="clear">
             <div class="center btmspace-80">

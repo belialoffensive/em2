@@ -19,9 +19,9 @@ include('./db/dbConnect.php')
     <div class="wrapper row3">
         <main class="container clear">
             <div class="group">
-                <div class="one_third first"><img src="images/demo/460x700.png" alt=""></div>
+                <div class="one_third first"><img src="images/demo/carlos-muza-hpjSkU2UYSU-unsplash_1x.jpg" alt=""></div>
                 <div class="two_third">
-                    <h2 class="heading" align="center"><a href="#">ЭКОЛОГИЧНЫЕ ЭКОНОМИЧНЫЕ РЕШЕНИЯ ДЛЯ ВАШЕГО БИЗНЕСА</a></h2>
+                    <h2 class="heading" align="center">ЭКОЛОГИЧНЫЕ ЭКОНОМИЧНЫЕ РЕШЕНИЯ ДЛЯ ВАШЕГО БИЗНЕСА</h2>
                         <li>
                             <p align="justify">В работе для нас главное:</br>
                             <ul align="justify">
@@ -30,9 +30,9 @@ include('./db/dbConnect.php')
                                 <li>обеспечение сотрудникам комфортных условий работы</li>
                                 <li>честность, открытость и уважение в отношениях с клиентами, сотрудниками, партнерами, конкурентами</li>
                                 <li>рациональное использование ресурсов</li>
-                            </ul>
-                            ЭКОЛОГИЧНЫЙ БИЗНЕС и ЭКОНОМИЧНЫЕ IT-РЕШЕНИЯ - основа успеха наших клиентов и партнеров. 
-                            </p>
+                            </ul></p>
+                            <p align="center"><b>ЭКОЛОГИЧНЫЙ БИЗНЕС и ЭКОНОМИЧНЫЕ IT-РЕШЕНИЯ - основа успеха наших клиентов и партнеров.</b></p>
+                            
                         </li>
                     </p>
                 </div>
