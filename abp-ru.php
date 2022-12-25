@@ -1,6 +1,3 @@
-<!-- DEVELOPMENT OF WEBSITES AND ONLINE STORES
-РАЗРАБОТКА САЙТОВ И ИНТЕРНЕТ-МАГАЗИНОВ -->
-
 <?php 
 session_start();
 include('./db/dbConnect.php')
@@ -14,10 +11,56 @@ include('./db/dbConnect.php')
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+
 </head>
 
 <body id="top">
     <?php include('./partials/header-ru.php'); ?>
+    
+    <div class="wrapper row3">
+        <main class="container clear">
+            <div class="group">
+                <div class="one_third first"><br><br><img src="images/demo/logo-wiki-2.png" alt=""></div>
+                <div class="two_third">
+                    <h2 class="heading" align="center"><a href="https://www.bitrix24.ru/">BITRIX24</a></h2>
+                    <p align="justify">С 1 по 30 декабря приобретайте Битрикс24 со скидкой до 30%! (при покупке на год).
+                        Все инструменты — под одной крышей. Автоматизация процессов, контроль сделок и продаж, создание
+                        сайтов и магазинов,
+                        выполнение задач и совместная работа — любые задачи будут по плечу. Преобразите бизнес с
+                        Битрикс24!</p>
+                    <button type="submit" value="submit"><a href="https://www.ecomeken.kz/saytpartnerabitriks24new/">Подробнее</a></button>
+                </div>
+            </div>
+            <!-- main body -->
+            <div class="clear"></div>
+        </main>
+    </div>
+
+    <div class="wrapper row3">
+        <main class="container clear">
+            <div class="group"><div class="two_third first">
+                    <h2 class="heading" align="center">ОСНАЩЕНИЕ IT-ИНФРАСТРУКТУРЫ</h2>
+                    <p align="justify">Современный офис немыслим без компьютерной техники и копировальной
+                                техники.
+                                Для эффективной работы нужны современные, недорогие но эффективные и надежные
+                                устройства,
+                                позволяющие быстро и четко выполнять ежедневные бизнес-задачи.</br>
+                                Мы предлагаем широкий набор компьютерной техники для офиса - от бизнес-ноутбуков до
+                                специализированных
+                                рабочих станций и услуги по объединению всех устройств в надежную корпоративную сети с
+                                использованием самых современных технологий.</br>
+                                Мы являемся официальными партнерами крупнейших производителей лицензионного программного
+                                обеспечения для офиса - Microsoft, Linux, Avast, Citrix, McAfee, Corel и многих других
+                                компаний.</br>
+                                Полный список товаров можно увидеть в нашем интернет-магазине <a href="https://www.elektronik.kz/">ELEKTRONIK</a></p>
+               </div>
+                <div class="one_third"><br><br><br><br><br><img src="images/demo/service_2x_2x_2x_2x_1x.jpeg" alt=""></div>
+            </div>
+            <!-- main body -->
+            <div class="clear"></div>
+        </main>
+    </div>
+
     <div class="wrapper row3">
         <main class="container clear">
             <div class="group">
@@ -77,6 +120,7 @@ include('./db/dbConnect.php')
             <div class="clear"></div>
         </main>
     </div>
+
     <?php include('./partials/footer-ru.php'); ?>
 
     <a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>

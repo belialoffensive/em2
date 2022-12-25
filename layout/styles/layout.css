@@ -112,6 +112,7 @@ File: Layout CSS
 /* Transition Fade
 --------------------------------------------------------------------------------------------------------------- */
 .faico a, #mainav *, #backtotop, .services i, #info .services li,  .overlay{transition:all .3s ease-in-out;}
+ .overlay1{transition:all .3s ease-in-out;}
 
 
 /* ------------------------------------------------------------------------------------------------------------ */
@@ -234,6 +235,7 @@ a{color:#008d00;}
 hr, .borderedbox{border-color:#D7D7D7;}
 label span{color:#FF0000; background-color:inherit;}
 .overlay{color:inherit; background-color:rgba(0,0,0,.65);}
+.overlay1{color:inherit; background-color:rgba(22, 22, 22, 0.65);}
 
 
 /* Rows */
@@ -259,7 +261,8 @@ label span{color:#FF0000; background-color:inherit;}
 #pageintro .services p{color:#888888;}
 #pageintro .services a i{color:#CCCCCC; border-color:#333333;}
 #pageintro .services li:hover a i{color:#FFFFFF; background-color:#008d00; border-color:#008d00;}
-#pageintro .services li:hover .overlay{background-color:rgba(0,0,0,1);}
+#pageintro .services li:hover .overlay{background-color:rgba(0,0,0,1);} 
+#pageintro .services li:hover .overlay1{background-color:rgba(22, 22, 22, 0.65);}
 
 
 /* Info */
@@ -302,7 +305,6 @@ th{color:#FFFFFF; background-color:#373737;}
 tr, #comments li, #comments input[type="submit"], #comments input[type="reset"]{color:inherit; background-color:#FBFBFB;}
 tr:nth-child(even), #comments li:nth-child(even){color:inherit; background-color:#F7F7F7;}
 table a, #comments a{background-color:inherit;}
-
 
 /* ------------------------------------------------------------------------------------------------------------ */
 /* ------------------------------------------------------------------------------------------------------------ */

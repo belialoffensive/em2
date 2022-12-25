@@ -48,36 +48,24 @@ include('./db/dbConnect.php')
                 <div class="third">
                     <ul class="nospace group">
                         <li class="one_third first">
-                            <h6 class="nospace btmspace-10" align="center"><i class="fa fa-location-arrow"></i>Модуль 1. Введение</h6>
-                            <p  align="center">lorem ipsum
-                            </p>
+                            <h6 class="nospace btmspace-10" align="center">Модуль 1. Введение</h6>
                         </li>
                         <li class="one_third">
-                        <h6 class="nospace btmspace-10" align="center"><i class="fa fa-location-arrow"></i>Модуль 2. От идеи до инновации</h6>
-                            <p  align="center">lorem ipsum
-                            </p>
+                        <h6 class="nospace btmspace-10" align="center">Модуль 2. От идеи до инновации</h6>
                         </li>
                         <li class="one_third last">
-                        <h6 class="nospace btmspace-10" align="center"><i class="fa fa-location-arrow"></i>Модуль 3. Методы трансфера технологий</h6>
-                            <p align="center">lorem ipsum
-                            </p>
+                        <h6 class="nospace btmspace-10" align="center">Модуль 3. Методы трансфера технологий</h6>
                         </li>
                     </ul>
                     <ul class="nospace group">
                         <li class="one_third first">
-                            <h6 class="nospace btmspace-10" align="center"><i class="fa fa-location-arrow"></i>Модуль 4. Стратегическое развитие бизнеса</h6>
-                            <p align="center">lorem ipsum
-                            </p>
+                            <h6 class="nospace btmspace-10" align="center">Модуль 4. Стратегическое развитие бизнеса</h6>
                         </li>
                         <li class="one_third">
-                        <h6 class="nospace btmspace-10" align="center"><i class="fa fa-location-arrow"></i>Модуль 5. Концепция IMLEAD® HEPTHATLON</h6>
-                            <p align="center">lorem ipsum
-                            </p>
+                        <h6 class="nospace btmspace-10" align="center">Модуль 5. Концепция IMLEAD® HEPTHATLON</h6>
                         </li>
                         <li class="one_third last">
-                        <h6 class="nospace btmspace-10" align="center"><i class="fa fa-location-arrow"></i>Модуль 6. Международный трансфер технологий и коммуникации</h6>
-                            <p align="center">lorem ipsum
-                            </p>
+                        <h6 class="nospace btmspace-10" align="center">Модуль 6. Международный трансфер технологий и коммуникации</h6>
                         </li>
                     </ul>
                 </div>

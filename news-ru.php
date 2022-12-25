@@ -15,21 +15,30 @@ include('./db/dbConnect.php')
 
 <body id="top">
     <?php include('./partials/header-ru.php'); ?>
+
     <div class="wrapper row3">
         <main class="container clear">
-            <div class="group">
-                <div>
-                    <h2 class="heading" align="center">Связаться с нами</h2>
-                    <ul class="nospace" align="center">
-                    <li class="btmspace-10"><span class="fa fa-globe"></span> Республика Казахстан, г. Астана, Шоссе Коргалжын, 21/1, Офис 7</li>
-                    <li class="btmspace-10"><span class="fa fa-phone"></span><a href="tel:+77771277057"> +7 777 127 70 57</a></li>
-                    <li><span class="fa fa-envelope-o"></span><a href="mailto:info@ecomeken.kz"> info@ecomeken.kz</a></li>
-                </ul>
+            <div class="content">
+                <div id="gallery">
+                    <figure>
+                        <header class="heading" align="center">НОВОСТИ ПОРТАЛА</header>
+                        <ul align="center" class="nospace clear">
+                            <!-- тут новости
+                                <li class="one_third first"><a href="#"><img
+                                        src="../images/demo/gallery/podbor_oborudovaniya_na_sayt_1x.jpg" alt=""></a>
+                            </li>
+                            <li class="one_third"><a href="#"><img
+                                        src="../images/demo/gallery/dlya_sayta_ekomeken_1x.jpg" alt=""></a></li>
+                            <li class="one_third"><a href="#"><img src="../images/demo/gallery/dlya_sayta_podbor_1x.jpg"
+                                        alt=""></a></li> -->
+                        </ul>
+                    </figure>
                 </div>
-            <!-- main body -->
+            </div>
             <div class="clear"></div>
         </main>
     </div>
+    
     <?php include('./partials/footer-ru.php'); ?>
 
     <a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>

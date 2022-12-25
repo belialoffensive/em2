@@ -26,14 +26,12 @@ include('./db/dbConnect.php')
                         <li class="one_half first">
                             <h6 class="nospace btmspace-10" align="center"><i class="fa fa-location-arrow"></i>МЕЖДУНАРОДНЫЕ ПРОГРАММЫ ОБУЧЕНИЯ И СТАЖИРОВКИ</h6>
                             <p align="center">Центр передового опыта ECOMEKEN предлагает своим клиентам инновационные обучающие курсы с выдачей международных сертификатов.
-                            </p>
-                            <button type="submit" value="submit"><a href = "contacts-ru.php">Подробнее</a></button>
+                            <button type="submit" value="submit"><a href = "contacts-ru.php">Подробнее</a></button></p>
                         </li>
                         <li class="one_half">
                         <h6 class="nospace btmspace-10" align="center"><i class="fa fa-location-arrow"></i>ТРАНСФЕРТ ТЕХНОЛОГИЙ</h6>
                             <p align="center">Курс по трансферту технологий от Университета Штайнбасс.
-                            </p>
-                            <button type="submit" value="submit"><a href = "transtech-ru.php">Подробнее</a></button>
+                            <button type="submit" value="submit"><a href = "transtech-ru.php">Подробнее</a></button></p>
                         </li>
                     </ul>
                 </div>

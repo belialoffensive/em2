@@ -1,19 +1,3 @@
-<div class="wrapper row0">
-    <div id="topbar" class="clear">
-        <div class="fl_left">
-            <ul class="nospace inline">
-                <li><i class="fa fa-phone"></i><a href="tel:+77771277057">+7 777 127 70 57</a></li>
-                <li><i class="fa fa-envelope-o"></i><a href="mailto:info@ecomeken.kz">info@ecomeken.kz</a></li>
-            </ul>
-        </div>
-        <div class="fl_right">
-            <ul class="faico clear">
-                <li><a class="faicon-facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-            </ul>
-        </div>
-    </div>
-</div>
-
 <div class="wrapper row1">
     <header id="header" class="clear">
         <div id="logo" class="fl_left">
@@ -22,15 +6,15 @@
         <nav id="mainav" class="fl_right">
             <ul class="clear">
                 <li class="active"><a href="index.php">Главная</a></li>
-                <li><a class="drop" href="about-ru.php">О компании</a>
-                <!-- <ul>
-                    <li><a href="#">Level 2</a></li>
-                    <li><a href="#">Level 2</a></li>
-                    <li><a href="#">Level 2</a></li>
-                    <li><a href="#">Level 2</a></li>
-                </ul>--></li> 
-                <li><a href="services-ru.php">Услуги</a></li>
-                <li><a href="itp-ru.php">Международные программы обучения</a></li>
+                <li><a href="about-ru.php">О компании</a></li> 
+                <li><a href="news-ru.php">Новости</a></li> 
+                <li><a class="drop" href="services-ru.php">Услуги</a>
+                <ul>
+                    <li><a href="abp-ru.php">Автоматизация бизнес-процессов</a></li>
+                    <li><a href="transtech-ru.php">Трансферт технологий</a></li>
+                    <li><a href="itp-ru.php">Международные стажировки и деловые поездки</a></li>
+                    <li><a href="esg-cons-ru.php">ESG-консалтинг</a></li>
+                </ul></li>
                 <li><a href="contacts-ru.php">Контакты</a></li>
             </ul>
         </nav>
@@ -39,31 +23,40 @@
 
 <div class="wrapper row2 bgded" style="background-image:url('images/demo/backgrounds/01.jpg');">
     <div class="overlay">
-        <section id="pageintro" class="clear">
+        <section  class="clear">
             <div class="center btmspace-80">
-                <h2 class="heading xxl uppercase btmspace-30">Ecomeken</h2>
-                <p class="xl nospace capitalise">Экономичные IT-технологии</p>
+                <br><br>
+                <a href="index.php">
+                    <img src="../images/demo/gallery/PNG_1_1x.png" alt="">
+                </a>
             </div>
             <ul class="nospace group services">
-                <li class="one_third first">
-                    <article class="overlay"><a href="about-ru.php"><i class="fa fa-legal"></i></a>
+                <li class="one_quarter first">
+                    <article class="overlay"><a href="abp-ru.php"><i class="fa fa-legal"></i></a>
                         <h6 class="heading" align = "center">Автоматизация бизнес-процессов</h6>
                         <p align = "justify">Экологичные экономичные решения для Вашего бизнеса</p>
-                        <footer><a href="about-ru.php">Читать далее &raquo;</a></footer>
+                        <footer><a href="abp-ru.php">Читать далее &raquo;</a></footer>
                     </article>
                 </li>
-                <li class="one_third">
-                    <article class="overlay"><a href="#"><i class="fa fa-line-chart"></i></a>
-                        <h6 class="heading" align = "center">Международные центры компетенций</h6>
-                        <p align = "justify">lorem ipsum&hellip;</p>
-                        <footer><a href="#">Читать далее &raquo;</a></footer>
-                    </article>
-                </li>
-                <li class="one_third">
+                <li class="one_quarter">
                     <article class="overlay"><a href="transtech-ru.php"><i class="fa fa-archive"></i></a>
                         <h6 class="heading" align = "center">Трансферт технологий</h6>
                         <p align = "justify">Международный альянс Центров Передового опыта в области зеленых технологий&hellip;</p>
                         <footer><a href="transtech-ru.php">Читать далее &raquo;</a></footer>
+                    </article>
+                </li>
+                <li class="one_quarter">
+                    <article class="overlay"><a href="prem-ru.php"><i class="fa fa-archive"></i></a>
+                        <h6 class="heading" align = "center">Международные стажировки и деловые поездки</h6>
+                        <p align = "justify">lorem ipsum&hellip;</p>
+                        <footer><a href="prem-ru.php">Читать далее &raquo;</a></footer>
+                    </article>
+                </li>
+                <li class="one_quarter">
+                    <article class="overlay"><a href="#"><i class="fa fa-archive"></i></a>
+                        <h6 class="heading" align = "center">ESG-консалтинг</h6>
+                        <p align = "justify">lorem ipsum&hellip;</p>
+                        <footer><a href="#">Читать далее &raquo;</a></footer>
                     </article>
                 </li>
             </ul>

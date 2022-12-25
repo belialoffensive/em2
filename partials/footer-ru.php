@@ -5,7 +5,7 @@
                 <address class="btmspace-15" align="center">
                     Республика Казахстан, <br>г. Астана<br>
                     Шоссе Коргалжын, 21/1,<br>
-                    Офис 7 (?)<br>
+                    Офис 7<br>
                 </address>
                 <ul class="nospace" align="center">
                     <li class="btmspace-10"><span class="fa fa-phone"></span><a href="tel:+77771277057"> +7 777 127 70 57</a></li>
